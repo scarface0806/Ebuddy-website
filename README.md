@@ -1,2 +1,2 @@
-# Ebuddy-website
-Responsive design code
+# E-Buddy
+Smart Power saving application
