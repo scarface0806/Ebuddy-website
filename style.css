@@ -299,6 +299,11 @@
 
  /* media quary */
  @media only screen and (max-width: 768px) {
+    
+    body{
+         overflow-x: hidden;
+        }
+
      .fs-16 {
          font-size: 16px;
          font-weight: 400;
@@ -429,6 +434,9 @@
  }
 
  @media only screen and (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+       }
 
      .fs-20-semibold,
      .fs-20,
@@ -481,6 +489,10 @@
  }
 
  @media only screen and (max-width: 450px) {
+
+    body{
+        overflow-x: hidden;
+       }
 
      .fs-20-semibold,
      .fs-20,
@@ -565,6 +577,10 @@
  }
 
  @media only screen and (max-width: 425px) {
+    
+    body{
+        overflow-x: hidden;
+       }
 
      .fs-20-semibold,
      .fs-20,

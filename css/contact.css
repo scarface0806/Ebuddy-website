@@ -223,6 +223,10 @@ header .banner .container-wrapper p {
 }
 
 @media (max-width: 1324px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-20 {
         font-size: 16px
     }
@@ -246,6 +250,10 @@ header .banner .container-wrapper p {
 }
 
 @media (min-width: 768px) and (max-width: 1008px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-18 {
         font-size: 16px
     }
@@ -286,6 +294,10 @@ header .banner .container-wrapper p {
 
 
 @media (max-width: 620px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-40 {
         font-size: 32px;
         font-weight: 500;
@@ -293,6 +305,10 @@ header .banner .container-wrapper p {
 }
 
 @media (max-width: 500px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .help-container .container-wrapper .form-container .left-container .contact-container .icon-container {
         height: 32px;
         width: 32px;
@@ -306,6 +322,10 @@ header .banner .container-wrapper p {
     }
 }
 @media (min-width: 435px) and (max-width: 475px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .download-message .container-wrapper h1 {
         text-align: center;
         line-height: 1;
@@ -313,6 +333,10 @@ header .banner .container-wrapper p {
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
+    body{
+        overflow-x: hidden;
+       }
+
 
     .fs-64-semibold {
         font-size: 40px;
@@ -423,6 +447,10 @@ header .banner .container-wrapper p {
 }
 
 @media (min-width: 400px) and (max-width: 435px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .help-container .container-wrapper .form-container .left-container .contact-container .mobile .icon-container {
         height: 32px;
         width: 32px;

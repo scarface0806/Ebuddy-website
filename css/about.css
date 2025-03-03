@@ -263,6 +263,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 
 /* media quary */
 @media (max-width: 1275px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-18 {
         font-size: 16px;
     }
@@ -305,6 +309,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (max-width: 985px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .primary-button {
         padding: 8px 16px;
     }
@@ -335,6 +343,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (max-width: 985px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .special-features .container-wrapper .cards-container {
         width: 90%;
         height: 90%;
@@ -351,6 +363,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (max-width: 855px) {
+    body{
+        overflow-x: hidden;
+       }
+
     header .banner {
         height: 500px;
     }
@@ -391,6 +407,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 
 
 @media (max-width: 767px) {
+    body{
+        overflow-x: hidden;
+       }
+
     header .banner .container-wrapper .banner-body-container .primary-button {
         width: 30%;
     }
@@ -426,6 +446,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (max-width: 660px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .special-features {
         height: 800px;
     }
@@ -458,6 +482,10 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (max-width: 500px) {
+    body{
+        overflow-x: hidden;
+       }
+
     header .banner .container-wrapper .banner-body-container .primary-button {
         width: 40%;
     }
@@ -502,6 +530,11 @@ header .banner .container-wrapper .banner-body-container .primary-button {
 }
 
 @media (min-width: 300px) and (max-width: 400px) {
+
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-60 {
         font-size: 28px;
     }

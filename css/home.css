@@ -712,12 +712,20 @@ display: none;
 
 
 @media (max-width: 1260px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-64-semibold {
         font-size: 56px;
     }
 }
 
 @media (max-width: 1226px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-20-semibold {
         font-size: 16px;
     }
@@ -729,6 +737,10 @@ display: none;
 }
 
 @media (max-width: 1215px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .what-we-do .container-wrapper .what-we-do-cards .card {
         height: 100%;
         width: 33%
@@ -753,6 +765,10 @@ display: none;
 }
 
 @media (max-width: 1100px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-16 {
         font-size: 15px;
     }
@@ -826,6 +842,10 @@ display: none;
 }
 
 @media (max-width: 1037px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-16 {
         font-size: 14px;
     }
@@ -862,6 +882,10 @@ display: none;
 }
 
 @media (max-width: 1000px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .key-features {
         height: auto;
         align-items: start;
@@ -962,6 +986,10 @@ display: none;
 }
 
 @media (max-width: 768px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-64-semibold {
         font-size: 46px
     }
@@ -1083,12 +1111,20 @@ display: none;
 }
 
 @media (max-width: 700px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .key-features .container-wrapper .cards-container .cards .body {
         display: none;
     }
 }
 
 @media (min-width: 768px) and (max-width: 980px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-64-semibold {
         font-size: 48px;
     }
@@ -1119,6 +1155,10 @@ display: none;
 }
 
 @media (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .key-features .container-wrapper .cards-container .cards .link {
         display: none;
     }
@@ -1152,6 +1192,10 @@ display: none;
 }
 
 @media (max-width: 495px) {
+    body{
+        overflow-x: hidden;
+       }
+
     header .banner {
         width: 100%;
         height: 450px;
@@ -1203,6 +1247,10 @@ display: none;
 }
 
 @media (max-width: 434px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .fs-64-semibold {
         font-size: 32px;
         font-weight: 600;
@@ -1224,6 +1272,10 @@ display: none;
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
+    body{
+        overflow-x: hidden;
+       }
+
 
     .fs-64-semibold {
         font-size: 28px;
@@ -1289,12 +1341,20 @@ display: none;
 }
 
 @media (min-width: 350px) and (max-width: 400px) {
+    body{
+        overflow-x: hidden;
+       }
+
     .What-we-do-banner {
         width: 100%;
         height: auto;
     }
 }
 @media (max-width: 375px) {
+    body{
+        overflow-x: hidden;
+       }
+
     header .banner {
         height: 391px;
     }
